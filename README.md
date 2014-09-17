@@ -66,4 +66,5 @@ want to write about your project.
 Anyone and everyone is welcome to [contribute](CONTRIBUTING.md). Hundreds of
 developers have helped make the HTML5 Boilerplate what it is today.
 
-I accessed this README.md file on Tuesday, 9/16/14 at 8:21pm.
+Name: Urvesh
+Major: Computer Science
