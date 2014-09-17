@@ -66,4 +66,4 @@ want to write about your project.
 Anyone and everyone is welcome to [contribute](CONTRIBUTING.md). Hundreds of
 developers have helped make the HTML5 Boilerplate what it is today.
 
-I accessed this README file on 9/16
+I accessed this README.md file on 9/16
